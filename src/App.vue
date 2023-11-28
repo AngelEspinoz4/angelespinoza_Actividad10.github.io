@@ -8,7 +8,6 @@ import axios from "axios";
 
 <template>
   <div class="container">
-    <!-- Usar container-fluid en lugar de container -->
     <div>
       <nav class="navbar navbar-expand-lg">
         <div
